@@ -1,0 +1,6 @@
+/* Folders */
+node_modules/
+memes/
+
+/* Test files */
+app.js

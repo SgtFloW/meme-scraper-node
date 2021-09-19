@@ -1,1 +1,1 @@
-"# meme-scraper-node" 
+# meme-scraper-node
